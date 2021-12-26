@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StarChart
+comment1.params=fileName
+comment1.target=StarChart(java.lang.String)
+comment2.params=
+comment2.target=void\ readStars()
+comment3.params=
+comment3.target=void\ populateMaps()
+comment4.params=
+comment4.target=void\ drawStars()
+comment5.params=fileName
+comment5.target=void\ drawConstellation(java.lang.String)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VIN
+comment1.params=vID
+comment1.target=VIN(java.lang.String)
+comment2.params=vinObj
+comment2.target=boolean\ equals(VIN)
+comment3.params=
+comment3.target=int\ hashCode()
+numComments=4

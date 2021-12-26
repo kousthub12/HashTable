@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Star
+comment1.params=x\ y\ henryDraper\ magnitude\ starNameLst
+comment1.target=Star(double,\ double,\ int,\ double,\ java.util.ArrayList)
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=
+comment4.target=java.util.ArrayList\ getStarNames()
+comment5.params=
+comment5.target=int\ getHenryDraper()
+comment6.params=
+comment6.target=double\ getMagnitude()
+comment7.params=magnitude
+comment7.target=double\ getStarRadius(double)
+numComments=8
